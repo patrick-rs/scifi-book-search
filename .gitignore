@@ -1,0 +1,5 @@
+__pycache__
+api/dist
+venv
+books
+node_modules
